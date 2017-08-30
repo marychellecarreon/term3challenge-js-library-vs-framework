@@ -28,7 +28,8 @@ SAMPLE CODE :
     }
      ReactDOM.render(<HelloMessage name="Jane" />, mountNode);
  ```
-     
+  ![chartjs_logo](https://user-images.githubusercontent.com/26729817/29864424-4045011c-8da5-11e7-9442-fe6213eda00c.jpg)
+
 * [Charts.js](http://www.chartjs.org/) 
     - an easy way to include animated, interactive graphs on your website.
 
