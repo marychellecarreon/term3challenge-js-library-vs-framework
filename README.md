@@ -8,6 +8,8 @@
 ## Framework
   - skeleton of application which calls the code to make the flow of the specific one.
   
+  ![framework-vs-library](https://user-images.githubusercontent.com/26729817/29863698-12f9d9b4-8da3-11e7-8dee-c0f2e5051ccb.png)
+  
 ## List of JS Libraries
 
 * [REACT JS](https://facebook.github.io/react/) 
