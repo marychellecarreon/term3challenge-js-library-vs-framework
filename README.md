@@ -72,6 +72,9 @@ SAMPLE CODE :
                 }}] }}});
      </script>
 ```
+
+![momentjs](https://user-images.githubusercontent.com/26729817/29895369-76c51cd4-8e0b-11e7-992e-965406c7024b.jpeg)
+
   * [Moment.js](http://momentjs.com/) 
       - Parse, validate, manipulate, and display dates and times in JavaScript.
       
