@@ -108,4 +108,12 @@ moment().add(1, 'days').calendar();       // Tomorrow at 4:34 PM
 moment().add(3, 'days').calendar();       // Saturday at 4:34 PM
 moment().add(10, 'days').calendar();      // 09/09/2017   
 ```
-     
+### RESOURCES
+
+https://www.sitepoint.com/3-javascript-libraries-2017/
+
+https://www.youtube.com/watch?v=_vL8s5ayuFk
+
+https://www.webdesignerdepot.com/2016/11/12-javascript-libraries-to-watch-in-2017/
+
+https://developer.telerik.com/topics/web-development/javascript-2017-libraries-frameworks/
